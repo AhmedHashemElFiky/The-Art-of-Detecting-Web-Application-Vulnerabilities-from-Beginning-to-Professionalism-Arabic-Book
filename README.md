@@ -1,6 +1,6 @@
 # The Art of Discovering Web Application Vulnerabilities from Beginning to Professionalism
 
-To the brave people of Palestine, the author (Dr. Eng. Ahmed Hashem El Fiky) presents to you this book as a token of solidarity with you in your struggle against the Israeli aggressor. We hope that science and knowledge will be our weapon in building a free and independent Arab homeland. This book is an ongoing charity that aims to spread knowledge and improve the security of web applications, and we hope that it will be widely disseminated for everyone to benefit from it.
+To the brave people of Palestine, the author (Dr. Eng. Ahmed Hashem El Fiky) presents to you this book as a token of solidarity with you in your struggle against the Israeli aggressor. We hope that science and knowledge will be our weapon in building a free and independent Arab homeland.
 
 "The Art of Detecting Web Application Vulnerabilities from Beginning to Professionalism" is a comprehensive and integrated guide that aims to teach the reader how to discover and exploit web application vulnerabilities in a systematic and practical manner. The book covers application security fundamentals and advanced details, with real-world examples and practical applications, making it an important reference for beginners and professionals in the field of information security.
 
